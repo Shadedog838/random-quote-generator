@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+#quote-box {
+  margin:8% auto auto auto;
+  width:500px;
+}
+
+#tweet-quote {
+  margin-left: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
